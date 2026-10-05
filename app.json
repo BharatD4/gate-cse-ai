@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "GATE CSE AI",
+    "slug": "gate-cse-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.bharat.gatecseai"
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-status-bar"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "297b2eb7-2074-4df1-bd3f-0e5855944b6d"
+      }
+    }
+  }
+}
