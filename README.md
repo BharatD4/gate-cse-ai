@@ -10,7 +10,7 @@ An AI-powered GATE CSE preparation platform designed to help students practice q
 
 
 
-\*\*\[Open GATE CSE AI](https://gate-cse-ai.expo.app)\*\*
+[Open GATE CSE AI] https://gate-cse-ai.expo.app
 
 
 
